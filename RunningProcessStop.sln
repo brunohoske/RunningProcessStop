@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningProcessStop", "RunningProcessStop\RunningProcessStop.csproj", "{6332E732-0D8B-4D3A-B6D0-0D52EC52741E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6332E732-0D8B-4D3A-B6D0-0D52EC52741E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6332E732-0D8B-4D3A-B6D0-0D52EC52741E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6332E732-0D8B-4D3A-B6D0-0D52EC52741E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6332E732-0D8B-4D3A-B6D0-0D52EC52741E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED968C2-0970-4B9E-B5DE-3431C1B09255}
+	EndGlobalSection
+EndGlobal
